@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.time.LocalDateTime;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import com.booking.maersk.app.request.AvailabilityRequest;
 import com.booking.maersk.app.request.ContainerBookingRequest;

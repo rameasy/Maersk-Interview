@@ -3,7 +3,9 @@ package com.booking.maersk.app.function;
 import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
+import org.junit.runner.RunWith;
+import org.junit.runners.JUnit4;
 
 import com.booking.maersk.app.response.AvailabilityResponse;
 import com.booking.maersk.app.vo.AvailableSpaces;

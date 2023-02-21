@@ -4,8 +4,9 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import java.time.LocalDateTime;
 
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
+import com.booking.maersk.app.function.BookingConverterFunction;
 import com.booking.maersk.app.model.Bookings;
 import com.booking.maersk.app.request.ContainerBookingRequest;
 
